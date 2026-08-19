@@ -36,7 +36,7 @@ End-to-end credit risk analysis of the LendingClub consumer loan portfolio (2007
 
 **Phase 2 — Cleaning & EDA (Python):** Feature engineering (DTI bands, income bands, risk category, resolved/default flags) and exploratory analysis of default drivers across grade, purpose, income, and geography.
 
-**Phase 3 — Risk Analysis (SQL):** 20 queries against the cleaned dataset in SQLite, validating the Python output and answering business questions:
+**Phase 3 — Risk Analysis (SQL):** 20 queries against the cleaned dataset in Mysql, validating the Python output and answering business questions:
 - Data validation & cross-tool tie-out (Excel ↔ Python ↔ SQL)
 - Default rate by grade, sub-grade, purpose, DTI band, income band, term, home ownership, verification status, state, and employment length
 - Window functions: `RANK()`, `DENSE_RANK()`, `ROW_NUMBER()`, running totals, `LAG()`/`LEAD()` trend analysis, and risk concentration flags
