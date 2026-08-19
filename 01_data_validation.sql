@@ -1,7 +1,7 @@
 -- ============================================================================
 -- 01_DATA_VALIDATION.SQL
 -- LendingClub Loan Portfolio — Data Validation Queries
--- Run against: loans.db (SQLite) — loaded from cleaned/feature-engineered data
+-- Run against: loans.db (MySQL) — loaded from cleaned/feature-engineered data
 -- produced in Phase 2 (Python). Table: loans (2,260,668 rows, 44 columns)
 -- ============================================================================
 
