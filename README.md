@@ -2,7 +2,7 @@
 
 End-to-end credit risk analysis of the LendingClub consumer loan portfolio (2007–2018), covering data auditing, cleaning, exploratory analysis, SQL-based risk segmentation, and an interactive Power BI dashboard.
 
-**Tools used:** Excel · Python (pandas, matplotlib/seaborn) · SQL (SQLite) · Power BI
+**Tools used:** Excel · Python (pandas, matplotlib/seaborn) · SQL (MySQL) · Power BI
 
 ---
 
@@ -71,7 +71,3 @@ End-to-end credit risk analysis of the LendingClub consumer loan portfolio (2007
 5. Open `powerbi/LendingClub_Dashboard.pbix` in Power BI Desktop to explore the dashboard
 
 ---
-
-## 👤 Author
-
-*(Add your name, LinkedIn, and/or portfolio link here)*
