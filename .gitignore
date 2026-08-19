@@ -1,0 +1,12 @@
+# Large raw/full data files — keep these OUT of git (GitHub's hard limit is 100MB/file)
+data/loans_cleaned_full.csv
+data/loans_cleaned_full_csv.gz
+data/accepted_2007_to_2018Q4_csv.gz
+*.csv.gz
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
