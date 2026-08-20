@@ -55,10 +55,8 @@ End-to-end credit risk analysis of the LendingClub consumer loan portfolio (2007
 ---
 
 ## 🖥️ Dashboard Preview
-
-*(Add a screenshot of your Power BI dashboard to `images/dashboard_screenshot.png` and it will display here)*
-
-![Dashboard Preview](images/dashboard_screenshot.png)
+Dashboard image 1.png
+Dashboard image 2.png
 
 ---
 
@@ -66,7 +64,7 @@ End-to-end credit risk analysis of the LendingClub consumer loan portfolio (2007
 
 1. Download the full dataset from [Kaggle](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
 2. Run `notebooks/Phase2_Python_EDA_Risk_Analysis.ipynb` to clean and feature-engineer the data
-3. Load the cleaned CSV into SQLite as a table named `loans`
+3. Load the cleaned CSV into MySQL Workbench as a table named `loans`
 4. Run the SQL scripts in order: `01_data_validation.sql` → `02_risk_analysis.sql` → `03_advanced_analytics.sql`
 5. Open `powerbi/LendingClub_Dashboard.pbix` in Power BI Desktop to explore the dashboard
 
