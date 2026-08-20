@@ -21,7 +21,7 @@ End-to-end credit risk analysis of the LendingClub consumer loan portfolio (2007
 │   ├── loans_cleaned_sample.csv               # 2,000-row sample of the cleaned dataset
 │   └── high_risk_segment_table.csv            # Output table: highest-risk segments
 ├── powerbi/
-│   └── LendingClub_Dashboard.pbix (https://drive.google.com/file/d/1hZ0JJ-STnBWN8dDCx21owHk89kf7-7ZI/view?usp=sharing)            # Interactive risk dashboard
+│   └── LendingClub_Dashboard.pbix           # Interactive risk dashboard
 └── images/
     └── dashboard_screenshot.png               # Dashboard preview
 ```
@@ -57,6 +57,7 @@ End-to-end credit risk analysis of the LendingClub consumer loan portfolio (2007
 ## 🖥️ Dashboard Preview
 Dashboard image 1.png
 Dashboard image 2.png
+https://drive.google.com/file/d/1hZ0JJ-STnBWN8dDCx21owHk89kf7-7ZI/view?usp=sharing (Download the LendingClub_Dashboard from this link given here)
 
 ---
 
