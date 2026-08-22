@@ -64,9 +64,9 @@ https://drive.google.com/file/d/1hZ0JJ-STnBWN8dDCx21owHk89kf7-7ZI/view?usp=shari
 ## 🛠️ How to Reproduce
 
 1. Download the full dataset from [Kaggle](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
-2. Run `notebooks/Phase2_Python_EDA_Risk_Analysis.ipynb` to clean and feature-engineer the data
+2. Run `notebooks/Phase2_Python_EDA_Risk_Analysis.ipynb` to clean and feature-engineering the data
 3. Load the cleaned CSV into MySQL Workbench as a table named `loans`
 4. Run the SQL scripts in order: `01_data_validation.sql` → `02_risk_analysis.sql` → `03_advanced_analytics.sql`
-5. Open `powerbi/LendingClub_Dashboard.pbix` in Power BI Desktop to explore the dashboard
+5. Go to the link https://drive.google.com/file/d/1hZ0JJ-STnBWN8dDCx21owHk89kf7-7ZI/view?usp=sharing and open Power BI dashboard by downloading to explore the dashboard
 
 ---
